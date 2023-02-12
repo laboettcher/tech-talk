@@ -13,8 +13,6 @@ Tech Talk is a tech blog where developers can publish their own blog posts and c
 
 * [Installation](#installation)
 
-* [Usage](#usage)
-
 * [Mock-Up](#mock-up)
 
 * [DeployedApplication](#deployed-application)
@@ -82,8 +80,6 @@ npm i connect-session-sequelize
 npm i dotenv
 npm i bcrypt
 ```
-
-## Usage
 
 ## Mock-Up
 
