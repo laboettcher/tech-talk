@@ -87,9 +87,11 @@ npm i bcrypt
 
 ## Mock-Up
 
+<img width="1192" alt="Screen Shot 2023-02-11 at 5 37 19 PM" src="https://user-images.githubusercontent.com/114205917/218288422-0fa75648-6724-4a54-a3e1-90c839bd13ef.png">
 
 ## Deployed Application
 
+Check it out [here.](https://tech-talk-blog-2.herokuapp.com/)
 
 ## License 
 
@@ -100,6 +102,8 @@ npm i bcrypt
 ## References
 
 * [Backdrop](https://docs.backdropcms.org/api/backdrop/functions?object_name=&summary=&page=35&order=file_name&sort=asc)
+
+* [DeployHeroku](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear)
 
